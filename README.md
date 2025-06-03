@@ -6,5 +6,8 @@
 - 💻 I’m currently contributing to an open source community called BugSigDB (a Bioconductor project) as an intern
 - 📝 Also daily improving on my R language and data analysis skills 
 - 😎 Ask me about my passion for science in general
-- 🔔 The only social media platform you can find me on is Linkedin: https://www.linkedin.com/in/anne-mariesharp
+- 🔔 Find me on:
+-  Linkedin: https://www.linkedin.com/in/anne-mariesharp
+-  X : https://x.com/anne_mariesharp
+  
 
