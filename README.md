@@ -22,7 +22,7 @@ and co-mentoring open source contributors at Outreachy.
 
 ---
 
-**Technical Stack**
+**Technical Stack** :
 Microsoft Excel · Power Query · R · Power BI · SQL · GitHub · Google Workspace
 
 ---
