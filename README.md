@@ -1,8 +1,9 @@
 ## Anne-Marie Sharp
-
 <br>
 Some analysts learn the tools and then find a field.
 I learned the field first — and then I built the tools around it.
+
+&nbsp;
 
 I'm a healthcare data analyst with a foundation in biomedical science and clinical
 laboratory work. That means when I look at a healthcare dataset, I'm not just seeing
@@ -37,4 +38,4 @@ Microsoft Excel · Power Query · R · Power BI · SQL · GitHub · Google Works
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/anne-mariesharp) · [Blog](https://annemariesharp.wordpress.com/) · [X](https://x.com/anne_mariesharp)
+[Email](mailto:annemariesharp7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anne-mariesharp) · [Blog](https://annemariesharp.wordpress.com/) · [X](https://x.com/anne_mariesharp)
