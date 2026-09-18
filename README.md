@@ -1,15 +1,13 @@
 ## Anne-Marie Sharp
 <br>
-Some analysts learn the tools first and then find a field. I learned the field first and then built the tools around it.
 
-&nbsp;
+I am an MPH student with a background in Medical Laboratory Science, developing my focus in epidemiology and population health research.
+ 
+I am interested in understanding why people and populations experience different health outcomes, what factors shape disease and health, and how research can help us better understand, prevent, and control health problems.
 
-I'm a healthcare data analyst with a background in biomedical science and clinical laboratory practice. My work focuses on using data to better understand healthcare systems, patient outcomes, and the challenges that affect the quality of care.
- 
-Through personal projects, I've explored topics including continuity of care, hospital billing, patient demographics, and treatment outcomes using SQL, Excel, and Power BI. 
-Alongside this, I contribute to the BugSigDB Microbiome Study Curation Project at Bioconductor, where I curate research data and co-mentor Outreachy contributors in an international open-source community.
- 
-I'm particularly interested in using data to answer meaningful healthcare questions and support better clinical and public health decision-making.
+My experience spans clinical laboratory practice, healthcare data analysis, microbiome research curation, and open-source research mentorship. I use data and research tools to investigate health questions, curate scientific evidence, and contribute to collaborative research.
+
+I am currently developing my epidemiological and research skills through my MPH while exploring the health questions I want to investigate long term.
 
 ---
 
